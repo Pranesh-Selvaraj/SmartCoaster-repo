@@ -22,8 +22,8 @@ To set up the Django project:
 
 1. Designate the desired directory for the project.
 2. Install a virtual environment:
-   - Unix-based systems: \`source venv/bin/activate\`
-   - Windows: \`venv\Scripts\activate\`
+   - Unix-based systems: '''source venv/bin/activate'''
+   - Windows: '''venv\Scripts\activate\'''
 3. Install project requirements: \`pip install -r requirements.txt\`
 
 ## Admin Portal
