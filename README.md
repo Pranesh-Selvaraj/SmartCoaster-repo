@@ -40,6 +40,6 @@ The admin portal allows efficient management of database records and essential a
 2. Access the homepage at [http://localhost:8000/](http://localhost:8000/)
 3. Visit [http://localhost:8000/overview](http://localhost:8000/overview) for a monitoring page displaying requests from Smart Coasters.
 4. Explore [http://localhost:8000/table](http://localhost:8000/table) for a comprehensive view of all tables.
-5. Access individual Smart Coaster orders and make payments directly using the integrated PayPal system.
+5. Access individual Smart Coaster orders and make payments directly using the integrated PayPal system and receive the recipt/bill after successful payment which can be download as PDF file.
 
 This system provides a user-friendly interface for configuring and overseeing the Smart Coaster system within a restaurant environment.
