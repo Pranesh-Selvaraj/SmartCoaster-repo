@@ -22,21 +22,21 @@ To set up the Django project:
 
 1. Designate the desired directory for the project.
 2. Install a virtual environment:
-   - Unix-based systems: '''source venv/bin/activate'''
-   - Windows: '''venv\Scripts\activate\'''
-3. Install project requirements: \`pip install -r requirements.txt\`
+   - Unix-based systems: ```source venv/bin/activate```
+   - Windows: ```venv\Scripts\activate```
+3. Install project requirements: ```pip install -r requirements.txt```
 
 ## Admin Portal
 
-1. Create a superuser account: \`python manage.py createsuperuser\`
-2. Synchronize changes with the database: \`python manage.py migrate\` and \`python manage.py makemigrations\`
+1. Create a superuser account: ```python manage.py createsuperuser```
+2. Synchronize changes with the database: ```python manage.py migrate``` and ```python manage.py makemigrations```
 3. Access the admin portal at [http://localhost:8000/admin](http://localhost:8000/admin)
 
 The admin portal allows efficient management of database records and essential administrative tasks.
 
 ## Navigating the User Interface
 
-1. Launch the development server: \`python manage.py runserver\`
+1. Launch the development server: ```python manage.py runserver```
 2. Access the homepage at [http://localhost:8000/](http://localhost:8000/)
 3. Visit [http://localhost:8000/overview](http://localhost:8000/overview) for a monitoring page displaying requests from Smart Coasters.
 4. Explore [http://localhost:8000/table](http://localhost:8000/table) for a comprehensive view of all tables.
